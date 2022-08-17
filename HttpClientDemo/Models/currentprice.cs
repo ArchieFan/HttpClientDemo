@@ -1,9 +1,4 @@
-﻿using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace HttpClientDemo.Models
+﻿namespace HttpClientDemo.Models
 {
     internal class Currentprice
     {
